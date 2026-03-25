@@ -8,15 +8,11 @@
 🛠️ This profile is used for professional contributions related to engineering and secure software development  
 🌐 Personal GitHub: [@cdsbarrera](https://github.com/cdsbarrera)
 
----
-
 ## About Me
 
 I am a Software Engineer working in the cybersecurity domain at Siemens, with a focus on Software Bill of Materials (SBOM), secure software development, and engineering quality.
 
 This profile is intended for professional contributions related to cybersecurity-focused engineering, technical collaboration, and secure development practices.
-
----
 
 ## Areas of Interest
 
@@ -26,8 +22,6 @@ This profile is intended for professional contributions related to cybersecurity
 - Automation
 - Developer tooling
 - Reliable and scalable engineering solutions
-
----
 
 ## Tech & Tools
 
@@ -39,16 +33,12 @@ This profile is intended for professional contributions related to cybersecurity
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
 ## Professional Focus
 
 - Contributing to cybersecurity-related engineering initiatives
 - Supporting SBOM-related work and secure development practices
 - Building maintainable and efficient technical solutions
 - Collaborating on engineering-driven projects
-
----
 
 ## Personal GitHub
 
