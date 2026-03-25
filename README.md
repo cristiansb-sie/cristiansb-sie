@@ -40,3 +40,8 @@ This profile is intended for professional contributions related to cybersecurity
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Personal GitHub
+
+For personal projects, experiments, and independent work, please visit:  
+[@cdsbarrera](https://github.com/cdsbarrera)
