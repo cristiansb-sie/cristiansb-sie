@@ -4,24 +4,32 @@
 ![SBOM](https://img.shields.io/badge/Domain-SBOM-005CA9?style=for-the-badge)
 ![Secure Development](https://img.shields.io/badge/Practice-Secure%20Development-blue?style=for-the-badge)
 
-💼 Software Engineer working in the cybersecurity domain at Siemens, with a focus on SBOM  
-🛠️ This profile is used for professional contributions related to engineering and secure software development  
-🌐 Personal GitHub: [@cdsbarrera](https://github.com/cdsbarrera)
-
 ## About Me
 
-I am a Software Engineer working in the cybersecurity domain at Siemens, with a focus on Software Bill of Materials (SBOM), secure software development, and engineering quality.
+I am a Software Engineer working in the cybersecurity domain at Siemens, focused on Software Bill of Materials (SBOM), secure software development, and engineering quality.
+
+As a Senior Software Engineer, I bring experience across full-stack development and DevOps, with a strong interest in building secure, maintainable, and scalable technical solutions.
 
 This profile is intended for professional contributions related to cybersecurity-focused engineering, technical collaboration, and secure development practices.
+
+## Professional Focus
+
+- Contributing to cybersecurity-related engineering initiatives
+- Supporting SBOM-related work and secure development practices
+- Applying full-stack and DevOps experience to practical engineering solutions
+- Building maintainable, efficient, and scalable software
+- Collaborating across engineering-focused projects
 
 ## Areas of Interest
 
 - Cybersecurity
 - Software Bill of Materials (SBOM)
 - Secure software development
+- Full-stack engineering
+- DevOps
 - Automation
 - Developer tooling
-- Reliable and scalable engineering solutions
+- Reliable and scalable systems
 
 ## Tech & Tools
 
@@ -32,15 +40,3 @@ This profile is intended for professional contributions related to cybersecurity
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## Professional Focus
-
-- Contributing to cybersecurity-related engineering initiatives
-- Supporting SBOM-related work and secure development practices
-- Building maintainable and efficient technical solutions
-- Collaborating on engineering-driven projects
-
-## Personal GitHub
-
-For personal projects and independent work, please visit:  
-[@cdsbarrera](https://github.com/cdsbarrera)
